@@ -79,7 +79,7 @@ For any additional questions, please contact **Wesley Yu at to.wesleyyu@gmail.co
 
 ```
 ├── README.md                           
-├── Exploratort.ipynb
+├── Exploratory.ipynb
 ├── Modeling.ipynb
 ├── Presentation.pdf        
 ├── data                                
